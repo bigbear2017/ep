@@ -1,0 +1,7 @@
+ependingpool.o: ependingpool.cpp ../../lib2-64/ullib/include/ul_log.h \
+  ../../lib2-64/ullib/include/ul_def.h \
+  ../../lib2-64/ullib/include/dep/dep_log.h \
+  ../../lib2-64/ullib/include/ul_net.h \
+  ../../lib2-64/ullib/include/dep/dep_net.h \
+  ../../lib2-64/ullib/include/ul_conf.h \
+  ../../lib2-64/ullib/include/dep/dep_conf.h ependingpool.h
